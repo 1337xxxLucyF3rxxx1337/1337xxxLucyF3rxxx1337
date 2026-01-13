@@ -36,13 +36,17 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1337xxxLucyF3rxxx1337&show_icons=true&theme=nord&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+  <a href="https://1337xxxLucyF3rxxx1337.github.io/">
+    <img src="https://img.shields.io/badge/Resume-121011?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  </a>
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337xxxLucyF3rxxx1337&layout=compact&theme=nord&langs_count=8" alt="Top Langs" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=1337xxxLucyF3rxxx1337&show_icons=true&theme=nord" alt="Stats" />
 
-  <br/><br/>
+  <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1337xxxLucyF3rxxx1337&theme=nord" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=1337xxxLucyF3rxxx1337&layout=compact&theme=nord" alt="Langs" />
+
 </div>
