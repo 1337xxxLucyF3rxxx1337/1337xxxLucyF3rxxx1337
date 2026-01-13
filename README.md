@@ -1,5 +1,7 @@
 <div align="center">
-  [!](https://img.shields.io/badge/Resume-%23121011.svg?style=for-the-badge)]
+  <a href="https://1337xxxLucyF3rxxx1337.github.io/">
+    <img src="https://img.shields.io/badge/Resume-121011?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  </a>
 </div>
 
 <div align="left">
