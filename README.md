@@ -43,10 +43,10 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=1337xxxLucyF3rxxx1337&show_icons=true&theme=nord" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1337xxxLucyF3rxxx1337&show_icons=true&theme=nord" alt="GitHub Stats" />
 
-  <br/>
+<br/>
 
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=1337xxxLucyF3rxxx1337&layout=compact&theme=nord" alt="Langs" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1337xxxLucyF3rxxx1337&layout=compact&theme=nord" alt="Top Langs" />
 
 </div>
