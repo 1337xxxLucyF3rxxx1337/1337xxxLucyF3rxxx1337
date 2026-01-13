@@ -1,5 +1,5 @@
 <div align="center">
-  [![Resume Badge](https://img.shields.io/badge/Resume-%23121011.svg?style=for-the-badge)](https://1337xxxLucyF3rxxx1337.github.io/)
+  [![Resume Badge](https://img.shields.io/badge/Resume-%23121011.svg?style=for-the-badge)]
 </div>
 
 <div align="left">
