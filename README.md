@@ -35,12 +35,14 @@
 
 ## Stats
 
-![1337xxxLucyF3rxxx1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=1337xxxLucyF3rxxx1337&show_icons=true&theme=nord&show=reviews,discussions_started,discussions_answered,prs_merged)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1337xxxLucyF3rxxx1337&show_icons=true&theme=nord&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1337xxxLucyF3rxxx1337&layout=compact&theme=nord)](https://github.com/1337xxxLucyF3rxxx1337/github-readme-stats)
+  <br/><br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=1337xxxLucyF3rxxx1337&theme=nord&hide_border=false)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337xxxLucyF3rxxx1337&layout=compact&theme=nord&langs_count=8" alt="Top Langs" />
 
-![](https://github-contributor-stats.vercel.app/api?username=1337xxxLucyF3rxxx1337&limit=5&theme=nord&combine_all_yearly_contributions=true)
+  <br/><br/>
 
-![](https://github-profile-trophy.vercel.app/?username=1337xxxLucyF3rxxx1337&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1337xxxLucyF3rxxx1337&theme=nord" alt="GitHub Streak" />
+</div>
